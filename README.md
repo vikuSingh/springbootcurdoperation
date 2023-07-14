@@ -3,13 +3,13 @@ How to run the application follow the below step :
 
 Add MySql Springboot Configuration insite resource folder.
 
-spring.datasource.url=jdbc:mysql://localhost:3306/test
-spring.datasource.username=root
-spring.datasource.password=root
-#spring.jpa.hibernate.use-new-id-generator-mappings=false
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5Dialect
-spring.jpa.properties.hibernate.format_sql=true
+	spring.datasource.url=jdbc:mysql://localhost:3306/test
+	spring.datasource.username=root
+	spring.datasource.password=root
+	#spring.jpa.hibernate.use-new-id-generator-mappings=false
+	spring.jpa.hibernate.ddl-auto=update
+	spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5Dialect
+	spring.jpa.properties.hibernate.format_sql=true
 
 
 Go to the src/main/java -->  open SpringbootcurdoperationApplication.java Right click on that and do Run as Java Application.
