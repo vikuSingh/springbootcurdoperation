@@ -30,12 +30,8 @@ Host: localhost:8080
 Content-Type: application/json
 Content-Length: 99
 
- {
-        "ename": "test5",
-        "address": "Nagpur",
-        "mobileNo": "878787448"
-    }
-![curdgetall](https://github.com/vikuSingh/springmvccurdoperation/assets/20941580/e27c778b-e69b-4019-8f7e-09946465468f)
+
+![Capture](https://github.com/vikuSingh/springbootcurdoperation/assets/20941580/4942158a-029a-4b7c-8a48-b5ba8aa08635)
 
 
 Save Employee
@@ -51,7 +47,8 @@ Content-Length: 99
         "mobileNo": "878787448"
     }
   
-![curdsave](https://github.com/vikuSingh/springmvccurdoperation/assets/20941580/74bf3782-d656-4b63-bae6-ff37e30eadfb)
+![Capture](https://github.com/vikuSingh/springbootcurdoperation/assets/20941580/884b8cf7-723e-44b6-86ae-f9661aee1cd5)
+
 
 Put/update call 
 PUT /emp/update HTTP/1.1
@@ -66,14 +63,17 @@ Content-Length: 97
     "mobileNo": "878787448"
 }
 
-![Capture](https://github.com/vikuSingh/springmvccurdoperation/assets/20941580/f51b2382-48a2-4c8c-902c-6cc2b2fc4b80)
+![Capture](https://github.com/vikuSingh/springbootcurdoperation/assets/20941580/da686e47-70d6-43a4-b5bc-27980f92960b)
 
 FindById Employee
-![Capture](https://github.com/vikuSingh/springmvccurdoperation/assets/20941580/9f7206ce-538c-48c4-ab23-29d199cbdc44)
+
+![Capture](https://github.com/vikuSingh/springbootcurdoperation/assets/20941580/c312018e-4668-4b97-876a-dcabea360a0c)
+
 
 DeleteById Employee
 
-![Capture](https://github.com/vikuSingh/springmvccurdoperation/assets/20941580/786a21a4-cdbc-4d56-8154-bf7607dde9d4)
+![Capture](https://github.com/vikuSingh/springbootcurdoperation/assets/20941580/fb93b96e-cf7f-46f4-a6d7-1dbb1acff4ed)
+
 
 
 
